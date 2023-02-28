@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swift-locks",
+        "repositoryURL": "https://github.com/minacle/swift-locks",
+        "state": {
+          "branch": null,
+          "revision": "8627513d7012a9ebee69b286a58e729173819ccf",
+          "version": "2.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
